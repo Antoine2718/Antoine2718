@@ -1,11 +1,12 @@
 # Antoine
+## Embarqued systems, mathematics
 
 Welcome to my GitHub profile!  
 Passionate by math and engineering, who loves exploring different programming paradigms and building efficient, reliable, and elegant solutions.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 💻 I’m currently working on various open-source and personal projects.
 - 🎯 I enjoy solving complex problems and learning new technologies.
@@ -14,7 +15,7 @@ Passionate by math and engineering, who loves exploring different programming pa
 
 ---
 
-## 🧰 Languages & Tools
+## Languages
 
 | Language | Experience & Focus |
 |-----------|--------------------|
@@ -24,6 +25,12 @@ Passionate by math and engineering, who loves exploring different programming pa
 | 💨 **Go** | **< 1 years** Building concurrent and efficient backend services and tools. |
 
 ---
+
+## Paradigms
+| Paradigms | Experience | Level |
+|-----------|------------|-------|
+| Functional | 3 years | •••.. |
+| OOP | 2 years | •••.. |
 
 ## 📂 My GitHub Repositories
 
