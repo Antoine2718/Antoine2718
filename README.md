@@ -1,7 +1,5 @@
 # Antoine
 
-# 👋 Hi there, I'm Antoine ([@Antoine2718](https://github.com/Antoine2718))
-
 Welcome to my GitHub profile!  
 Passionate by math and engineering, who loves exploring different programming paradigms and building efficient, reliable, and elegant solutions.
 
@@ -20,10 +18,10 @@ Passionate by math and engineering, who loves exploring different programming pa
 
 | Language | Experience & Focus |
 |-----------|--------------------|
-| 🐍 **Python** | My main language — AI, scripting, data processing, automation. |
-| 🐫 **OCaml** | Functional programming enthusiast — exploring type systems, and clean abstractions. |
-| ⚙️ **C++** | Embarqued Systems, strong background in performance-critical code, algorithms, and systems programming. |
-| 💨 **Go** | Building concurrent and efficient backend services and tools. |
+| 🐍 **Python** | **4 years** My main language — AI, scripting, data processing, automation. |
+| 🐫 **OCaml** | **1 years** Functional programming enthusiast — exploring type systems, and clean abstractions. |
+| ⚙️ **C++** | **3 years** Embarqued Systems, strong background in performance-critical code, algorithms, and systems programming. |
+| 💨 **Go** | **< 1 years** Building concurrent and efficient backend services and tools. |
 
 ---
 
