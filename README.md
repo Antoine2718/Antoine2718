@@ -19,10 +19,10 @@ Passionate by math and engineering, who loves exploring different programming pa
 
 | Language | Experience & Focus |
 |-----------|--------------------|
-| 🐍 **Python** | **4 years** My main language — AI, scripting, data processing, automation. |
+| 🐍 **Python** | **4 years** AI, scripting, data processing, automation. |
 | ⚙️ **C++** | **3 years** Embarqued Systems, strong background in performance-critical code, algorithms, and systems programming. |
 | 🐫 **OCaml** | **1 years** Functional programming enthusiast — exploring type systems, and clean abstractions. |
-| 💨 **Go** | **< 1 years** Building concurrent and efficient backend services and tools. |
+| 🚀 **Go** | **< 1 years** Building concurrent and efficient backend services and tools. |
 
 ---
 
