@@ -29,8 +29,8 @@ Passionate by math and engineering, who loves exploring different programming pa
 ## Paradigms
 | Paradigms | Experience | Level |
 |-----------|------------|-------|
-| Functional | 3 years | •••.. |
-| OOP | 2 years | •••.. |
+| Functional | 2 years | •••.. |
+| OOP | 1 years | •••.. |
 
 ## 📂 My GitHub Repositories
 
