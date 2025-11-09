@@ -15,7 +15,7 @@ Passionate by math and engineering, who loves exploring different programming pa
 
 ---
 
-## Languages
+## Favorites Languages
 
 | Language | Experience & Focus |
 |-----------|--------------------|
