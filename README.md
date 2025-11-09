@@ -6,6 +6,8 @@ Passionate by math and engineering, who loves exploring different programming pa
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&langs_count=8&theme=github_dark)
+
 ## About Me
 
 - 💻 I’m currently working on various open-source and personal projects.
