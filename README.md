@@ -1,6 +1,8 @@
 # Antoine — passionate about engineering
 
-I’m a 2nd-year Mathematics student (L2) and an auditing student in 2nd-year Physics (L2). I build practical AI systems and engineering prototypes with an emphasis on reproducibility, clean code and performance. Currently focused on machine learning, systems programming, and turning research ideas into usable tools.
+I’m a 2nd-year Mathematics student (L2) and an auditing student in 2nd-year Physics (L2). 
+
+I build practical AI systems and engineering prototypes with an emphasis on reproducibility, clean code and performance. Currently focused on machine learning, systems programming, and turning research ideas into usable tools.
 
 ⸻
 
