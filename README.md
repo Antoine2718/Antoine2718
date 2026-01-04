@@ -4,14 +4,14 @@ I’m a 2nd-year Mathematics student (L2) and an auditing student in 2nd-year Ph
 
 ⸻
 
-##Quick pitch
+## Quick pitch
 	•	Student in Mathematics (L2), auditing Physics (L2) — strong mathematical foundation for ML/AI.
 	•	Aspiring engineer: I like shipping reliable systems that scale (from prototypes to optimized C/C++ modules).
 	•	Active developer with projects in Python (TensorFlow, PyTorch), C / C++, OCaml, and JavaScript.
 
 ⸻
 
-##🛠️ Technical skills
+## 🛠️ Technical skills
 	•	Languages: Python, C, C++, OCaml & JavaScript
 	•	ML / DL: TensorFlow, PyTorch, NumPy, scikit-learn
 	•	Tools & infra: Git, Docker, Linux, basic CI (GitHub Actions)
