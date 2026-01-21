@@ -1,5 +1,3 @@
-# Antoine — passionate about engineering
-
 I’m a 2nd-year Mathematics student (L2) and an auditing student in 2nd-year Physics (L2). 
 
 I build practical AI systems and engineering prototypes with an emphasis on reproducibility, clean code and performance. Currently focused on machine learning, systems programming, and turning research ideas into usable tools.
@@ -23,5 +21,3 @@ I build practical AI systems and engineering prototypes with an emphasis on repr
 • Tools & infra: Git, Docker, Linux, basic CI (GitHub Actions)
 
 • Engineering focus: model training & evaluation, inference optimization, reproducible experiments, simple web UIs / APIs for demos
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=tokyonight)
