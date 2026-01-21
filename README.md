@@ -6,7 +6,7 @@ I build practical AI systems and engineering prototypes with an emphasis on repr
 
 ⸻
 
-## Quick pitch
+## ⚙️ Quick pitch
 • Student in Mathematics (L2), auditing Physics (L2) — strong mathematical foundation for ML/AI.
 
 • Aspiring engineer: I like shipping reliable systems that scale (from prototypes to optimized C/C++ modules).
@@ -23,3 +23,5 @@ I build practical AI systems and engineering prototypes with an emphasis on repr
 • Tools & infra: Git, Docker, Linux, basic CI (GitHub Actions)
 
 • Engineering focus: model training & evaluation, inference optimization, reproducible experiments, simple web UIs / APIs for demos
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=tokyonight)
