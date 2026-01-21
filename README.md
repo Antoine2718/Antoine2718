@@ -1,8 +1,6 @@
 # Antoine
 ### Mathematics • Physics • Software Engineering
 
-────────────────────────────────────────────────────────────
-
 ## 🧠 Profile
 
 I am an **undergraduate student in Mathematics (L2)** and a **Physics (L2) auditor**, driven by a strong interest in **theoretical foundations**, **computational modeling**, and **high-performance systems**.
@@ -15,8 +13,6 @@ My work lies at the intersection of:
 
 I approach engineering problems from **first principles**, prioritizing correctness, clarity, and scalability.
 
-────────────────────────────────────────────────────────────
-
 ## 🧮 Academic Background
 
 - 📐 **BSc Mathematics (L2)**  
@@ -26,8 +22,6 @@ I approach engineering problems from **first principles**, prioritizing correctn
   Mechanics, electromagnetism, and mathematical physics
 
 These disciplines shape the way I design algorithms and reason about systems.
-
-────────────────────────────────────────────────────────────
 
 ## ⚙️ Technical Stack
 
@@ -53,8 +47,6 @@ These disciplines shape the way I design algorithms and reason about systems.
 - Algorithms & data structures
 - High-performance and low-level computing
 
-────────────────────────────────────────────────────────────
-
 ## 🧪 Engineering Philosophy
 
 - **First principles thinking**
@@ -64,8 +56,6 @@ These disciplines shape the way I design algorithms and reason about systems.
 
 > *“The best code is the one that does exactly what is needed — nothing more.”*
 
-────────────────────────────────────────────────────────────
-
 ## 📂 GitHub Repository
 
 This GitHub contains:
@@ -74,8 +64,6 @@ This GitHub contains:
 - Code written to be **read**, **tested**, and **improved**
 
 Every project is an opportunity to refine both **theory** and **implementation**.
-
-────────────────────────────────────────────────────────────
 
 <p align="center">
 ⚡ Build from fundamentals • Optimize relentlessly • Iterate precisely
