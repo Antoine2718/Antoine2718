@@ -64,7 +64,3 @@ This GitHub contains:
 - Code written to be **read**, **tested**, and **improved**
 
 Every project is an opportunity to refine both **theory** and **implementation**.
-
-<p align="center">
-⚡ Build from fundamentals • Optimize relentlessly • Iterate precisely
-</p>
