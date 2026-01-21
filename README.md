@@ -1,23 +1,82 @@
-I’m a 2nd-year Mathematics student (L2) and an auditing student in 2nd-year Physics (L2). 
+# Antoine
+### Mathematics • Physics • Software Engineering
 
-I build practical AI systems and engineering prototypes with an emphasis on reproducibility, clean code and performance. Currently focused on machine learning, systems programming, and turning research ideas into usable tools.
+────────────────────────────────────────────────────────────
 
-⸻
+## 🧠 Profile
 
-## ⚙️ Quick pitch
-• Student in Mathematics (L2), auditing Physics (L2) — strong mathematical foundation for ML/AI.
+I am an **undergraduate student in Mathematics (L2)** and a **Physics (L2) auditor**, driven by a strong interest in **theoretical foundations**, **computational modeling**, and **high-performance systems**.
 
-• Aspiring engineer: I like shipping reliable systems that scale (from prototypes to optimized C/C++ modules).
+My work lies at the intersection of:
 
-• Active developer with projects in Python (TensorFlow, PyTorch), C / C++, OCaml, and JavaScript.
+- **Mathematical rigor**
+- **Physical intuition**
+- **Efficient software design**
 
-⸻
+I approach engineering problems from **first principles**, prioritizing correctness, clarity, and scalability.
 
-## 🛠️ Technical skills
-• Languages: Python, C/C++, OCaml & JavaScript
+────────────────────────────────────────────────────────────
 
-• ML / DL: TensorFlow, PyTorch, NumPy, scikit-learn
+## 🧮 Academic Background
 
-• Tools & infra: Git, Docker, Linux, basic CI (GitHub Actions)
+- 📐 **BSc Mathematics (L2)**  
+  Focus on analysis, algebra, and problem solving
 
-• Engineering focus: model training & evaluation, inference optimization, reproducible experiments, simple web UIs / APIs for demos
+- ⚛️ **Physics (L2 – Auditor)**  
+  Mechanics, electromagnetism, and mathematical physics
+
+These disciplines shape the way I design algorithms and reason about systems.
+
+────────────────────────────────────────────────────────────
+
+## ⚙️ Technical Stack
+
+### Programming Languages
+- 🐍 **Python**  
+  → Scientific computing & machine learning  
+  → **PyTorch**, **TensorFlow**
+
+- ⚡ **C / C++**  
+  → Performance-critical systems, low-level control
+
+- 🧠 **OCaml**  
+  → Functional programming, type safety, formal reasoning
+
+- 🚀 **Go**  
+  → Concurrent systems, clean and scalable backend design
+
+---
+
+### Domains of Interest
+- Machine Learning & numerical optimization
+- Computational physics
+- Algorithms & data structures
+- High-performance and low-level computing
+
+────────────────────────────────────────────────────────────
+
+## 🧪 Engineering Philosophy
+
+- **First principles thinking**
+- **Minimalism over abstraction**
+- **Performance is a feature**
+- **Correctness before cleverness**
+
+> *“The best code is the one that does exactly what is needed — nothing more.”*
+
+────────────────────────────────────────────────────────────
+
+## 📂 GitHub Repository
+
+This GitHub contains:
+- Experimental projects
+- Academic and technical explorations
+- Code written to be **read**, **tested**, and **improved**
+
+Every project is an opportunity to refine both **theory** and **implementation**.
+
+────────────────────────────────────────────────────────────
+
+<p align="center">
+⚡ Build from fundamentals • Optimize relentlessly • Iterate precisely
+</p>
