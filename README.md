@@ -2,7 +2,7 @@
 ### Mathematics • Physics • Software Engineering
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=donut&theme=slate&hide_border=true&hide_title=true&card_width=400" alt="Langages d'Antoine2718" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antoine2718&theme=2077" alt="Langages les plus utilisés par Antoine2718" />
 </p>
 
 ## 🧠 Profile
