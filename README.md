@@ -1,7 +1,7 @@
 # Antoine
 ### Mathematics • Physics • Software Engineering
 
-![My languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Antoine2718&layout=pie&theme=dark&hide_border=true&hide=php,css)
+![My languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Antoine2718&layout=pie&theme=default&hide_border=true&hide=php,css)
 
 ## Profile
 
