@@ -1,6 +1,10 @@
 # Antoine
 ### Mathematics • Physics • Software Engineering
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antoine2718&theme=2077" alt="Graphique des langages d'Antoine2718" />
+</p>
+
 ## 🧠 Profile
 
 I am an **undergraduate student in Mathematics (L2)** and a **Physics (L2) auditor**, driven by a strong interest in **theoretical foundations**, **computational modeling**, and **high-performance systems**.
