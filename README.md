@@ -1,7 +1,7 @@
 # Antoine
 ### Mathematics • Physics • Software Engineering
 
-![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
 
 ## Profile
 
