@@ -1,6 +1,6 @@
 # Antoine
  *BSc Student in Mathematics (L3) & Physics Auditor*
-
+> "Get the sense, not just the sentence."
 ### 📖 Interests
 - **Machine Learning & On-board AI** (Model compression, inference optimization)
 - **Scientific Computing & Simulation** (Numerical analysis, mathematical modeling)
