@@ -17,6 +17,8 @@
 - **Languages:** Python, C/C++, Lean 4, OCaml
 - **ML & Scientific:** PyTorch, NumPy, SciPy, Matplotlib
 
+--- 
+
 ### 🎓 Education & Background
 
 - **B.Sc. Student in Mathematics (L3)** — University of Tours
