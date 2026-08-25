@@ -19,7 +19,7 @@
 
 ### 🎓 Education & Background
 
-- **B.Sc. in Mathematics (L3)** — University of Tours
+- **B.Sc. Student in Mathematics (L3)** — University of Tours
   - Focus: Measure Theory, Topology, Abstract Algebra, Probability Theory.
   - Second year obtained with the highest honors
 
