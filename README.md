@@ -24,7 +24,7 @@
   - Second year obtained with the highest honors
 
 - **Auditing Student in Physics** — University of Tours
-       - Focus: Building a strong foundation in applied physics and engineering principles.
+  - Focus: Building a strong foundation in applied physics and engineering principles.
 
 - **Baccalauréat (french high school diploma)** 
-       - Highest Honors (Mention très bien avec les Félicitations du jury)
+  - Highest Honors (Mention très bien avec les Félicitations du jury)
