@@ -18,8 +18,9 @@
 - **ML & Scientific:** PyTorch, NumPy, SciPy, Matplotlib
 
 <br>
+  
+<\br>
 --- 
-<br>
 
 ### 🎓 Education & Background
 
