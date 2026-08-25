@@ -1,5 +1,5 @@
 # Antoine
-### *BSc Student in Mathematics (L3) & Physics Auditor*
+ *BSc Student in Mathematics (L3) & Physics Auditor*
 
 ### 📖 Interests
 - **Machine Learning & On-board AI** (Model compression, inference optimization)
