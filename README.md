@@ -15,7 +15,8 @@
 
 ### 🛠️ Tools & Languages
 - **Languages:** Python, C/C++, Lean 4, OCaml
-- **ML & Scientific:** PyTorch, NumPy, SciPy, Matplotlib
+- **ML & Python Scientific:** PyTorch, NumPy, SciPy, Matplotlib
+- **Modeling & Simulation:** MATLAB, Simulink
 
 <br>
   
