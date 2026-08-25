@@ -19,7 +19,7 @@
 
 <br>
   
-<\br>
+
 --- 
 
 ### 🎓 Education & Background
