@@ -17,7 +17,9 @@
 - **Languages:** Python, C/C++, Lean 4, OCaml
 - **ML & Scientific:** PyTorch, NumPy, SciPy, Matplotlib
 
+<br>
 --- 
+<br>
 
 ### 🎓 Education & Background
 
