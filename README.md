@@ -2,7 +2,7 @@
  *BSc Student in Mathematics (L3) & Physics Auditor (L3)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=github_dark&hide=PHP,HTML,CSS" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=github_dark&hide=PHP,HTML,CSS&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📖 Interests
