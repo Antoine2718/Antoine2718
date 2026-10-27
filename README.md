@@ -1,6 +1,10 @@
 # Antoine
  *BSc Student in Mathematics (L3) & Physics Auditor (L3)*
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine2718&layout=compact&theme=tokyonight&hide=HTML,CSS" alt="Top Languages" />
+</p>
+
 ### 📖 Interests
 - **Machine Learning & On-board AI** (Model compression, inference optimization)
 - **Scientific Computing & Simulation** (Numerical analysis, mathematical modeling)
