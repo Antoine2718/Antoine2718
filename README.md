@@ -1,5 +1,5 @@
 # Antoine
- *BSc Student in Mathematics (L3) & Physics Auditor (L3)*
+ *BSc Student in Mathematics (L3) & follow-up of third-year BSc Physics courses as a free auditor*
 
 
 ### 📖 Interests
