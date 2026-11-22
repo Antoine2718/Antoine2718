@@ -6,6 +6,7 @@ My favorite quote:
 > (Edsger W. Dijkstra)
 
 ### 📖 Interests
+- **AI Safety & Robustness** (Formal verification of neural networks, provable guarantees)
 - **Machine Learning & On-board AI** (Model compression, inference optimization)
 - **Scientific Computing & Simulation** (Numerical analysis, mathematical modeling)
 - **Formal Verification & Logic** (Interactive theorem proving)
