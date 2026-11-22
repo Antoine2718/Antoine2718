@@ -6,10 +6,11 @@ My favorite quote:
 > (Edsger W. Dijkstra)
 
 ### 📖 Interests
-- **AI Safety & Robustness** (Formal verification of neural networks, provable guarantees)
-- **Machine Learning & On-board AI** (Model compression, inference optimization)
-- **Scientific Computing & Simulation** (Numerical analysis, mathematical modeling)
-- **Formal Verification & Logic** (Interactive theorem proving)
+
+- **World Models & Physical AI** (Latent dynamics, self-supervised learning, embodied simulation)
+- **Scientific Machine Learning & PINNs** (Physics-Informed Neural Networks, numerical analysis, mathematical modeling)
+- **3D Computer Vision & On-board AI** (Spatial representation, model compression, inference optimization)
+- **AI Safety & Formal Verification** (Neural network verification, provable guarantees, interactive theorem proving)
 
 ### 🧪 Engineering Philosophy
 > "Get the sense, not just the sentence."
