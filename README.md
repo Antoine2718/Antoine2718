@@ -28,14 +28,18 @@ My favorite quote:
 
 --- 
 
+### 🔭 Experience
+
+- **Undergraduate Research Work (BSc Thesis)** — *University of Tours* (Current)
+  - Topic: **Brownian Motion & Numerical Simulations Applied to Physics**.
+  - Modeling stochastic processes and implementing numerical schemes to simulate physical systems with the tools of measurement theory
+
 ### 🎓 Education & Background
 
-- **B.Sc. Student in Mathematics (Third year)** — *University of Tours*
-  - Focus: Measure Theory, Topology, Abstract Algebra, Probability Theory.
-  - 2nd year obtained with the highest honors
-
-- **Auditing Student in Physics** — *University of Tours*
-  - Focus: Building a strong foundation in applied physics and engineering principles.
-
-- **Baccalauréat (French high school diploma)** 
-  - Highest Honors (Mention très bien avec les Félicitations du jury)
+- **B.Sc. in Mathematics (Third Year — Pure Mathematics)** — *University of Tours*
+  - **Focus:** Measure Theory, Topology, Abstract Algebra, Probability Theory.
+  - **Academic Performance:** Ranked **5th/45** in 2nd year (16.3/20 — *Highest Honors / Très Bien*) and **6th/63** in 1st year (Math Major, CS Minor — *Honors / Bien*).
+- **Auditing Student in Physics (Third Year)** — *University of Tours*
+  - Building a strong foundation in applied physics and engineering principles.
+- **French Baccalauréat**
+  - *Highest Honors with Jury's Congratulations* (Mention Très Bien avec les Félicitations du jury).
