@@ -1,5 +1,5 @@
 # Antoine
- *BSc Student in Mathematics (L3) & follow-up of third-year BSc Physics courses as a free auditor*
+ *BSc Student in Mathematics (Third year) & follow-up of third-year BSc Physics courses as a free auditor*
 
 
 ### 📖 Interests
@@ -26,7 +26,7 @@
 
 ### 🎓 Education & Background
 
-- **B.Sc. Student in Mathematics (L3)** — University of Tours
+- **B.Sc. Student in Mathematics (Third year)** — University of Tours
   - Focus: Measure Theory, Topology, Abstract Algebra, Probability Theory.
   - 2nd year obtained with the highest honors
 
