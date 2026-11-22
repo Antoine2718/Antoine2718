@@ -38,8 +38,8 @@ My favorite quote:
 
 - **B.Sc. in Mathematics (Third Year — Pure Mathematics)** — *University of Tours*
   - **Focus:** Measure Theory, Topology, Abstract Algebra, Probability Theory.
-  - **Academic Performance:** Ranked **5th/45** in 2nd year (16.3/20 — *Highest Honors / Très Bien*) and **6th/63** in 1st year (Math Major, CS Minor — *Honors / Bien*).
+  - **Academic Performance:** Ranked **5th/45** in 2nd year (16.3/20 — *Highest Honors, Très Bien*) and **6th/63** in 1st year (Math Major, Computer Science Minor — *Honors, Bien*).
 - **Auditing Student in Physics (Third Year)** — *University of Tours*
   - Building a strong foundation in applied physics and engineering principles.
-- **French Baccalauréat**
+- **Baccalauréat (French High School Diploma)**
   - *Highest Honors with Jury's Congratulations* (Mention Très Bien avec les Félicitations du jury).
