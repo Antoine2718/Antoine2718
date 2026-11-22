@@ -31,7 +31,7 @@ My favorite quote:
 ### Experience
 
 - **Supervised Research Initiation Work (BSc Thesis)** — *University of Tours* (Current)
-  - Topic: **Brownian Motion & Numerical Simulations Applied to Physics**.
+  - Topic: **Brownian Motion and numerical simulations applied to Physics**.
   - Modeling stochastic processes and implementing numerical schemes to simulate physical systems with the tools of measurement theory
 
 ### Education & Background
