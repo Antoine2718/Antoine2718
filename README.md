@@ -30,12 +30,12 @@ My favorite quote:
 
 ### 🎓 Education & Background
 
-- **B.Sc. Student in Mathematics (Third year)** — University of Tours
+- **B.Sc. Student in Mathematics (Third year)** — *University of Tours*
   - Focus: Measure Theory, Topology, Abstract Algebra, Probability Theory.
   - 2nd year obtained with the highest honors
 
-- **Auditing Student in Physics** — University of Tours
+- **Auditing Student in Physics** — *University of Tours*
   - Focus: Building a strong foundation in applied physics and engineering principles.
 
-- **Baccalauréat (french high school diploma)** 
+- **Baccalauréat (French high school diploma)** 
   - Highest Honors (Mention très bien avec les Félicitations du jury)
