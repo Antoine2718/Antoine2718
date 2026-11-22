@@ -1,5 +1,6 @@
 # Antoine
  *BSc Student in Mathematics (Third year) & follow-up of third-year BSc Physics courses as a free auditor*
+
 My favorite quote:
 > "Computer science is no more about computers than astronomy is about telescopes."
 > (Edsger W. Dijkstra)
