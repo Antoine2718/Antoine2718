@@ -35,6 +35,10 @@ My favorite quote:
   - Topic: **Brownian Motion and numerical simulations applied to Physics**.
   - Modeling stochastic processes and implementing numerical schemes to simulate physical systems with the tools of Lebesgue Measure Theory
 
+- **Private Tutor – Mathematics & Physics**
+  - Tutoring in Mathematics and Physics to high school students (from French or British systems), focusing on conceptual rigor and problem-solving methodology.
+  - Providing advanced mathematics enrichment to prepare for French Classes Préparatoires aux Grandes Écoles (CPGE)
+
 ### Education & Background
 
 - **B.Sc. in Pure Mathematics (Third Year)** — *University of Tours*
